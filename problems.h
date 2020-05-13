@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright 2020 Florian Fischer
 #pragma once
 
 #include "pso.h"
